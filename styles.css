@@ -97,7 +97,7 @@ nav {
 }
 
 .skill-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-20px);
 }
 
 .skill-card h3 {
@@ -119,7 +119,7 @@ nav {
 }
 
 .project-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-20px);
 }
 
 .project-card h3 {
